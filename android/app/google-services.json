@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726374824856",
+    "project_id": "steadfast-list-406306",
+    "storage_bucket": "steadfast-list-406306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726374824856:android:f05f81e4ac78414799c9ed",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9lmxnhNIeWZE7laPeSqcZ0txhUPql8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
